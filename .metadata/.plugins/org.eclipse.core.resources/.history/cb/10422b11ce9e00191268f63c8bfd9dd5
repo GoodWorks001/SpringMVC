@@ -1,0 +1,8 @@
+package jp_co.good_works.lesson.springmvc.form;
+
+public class ProductForm {
+
+	private String name;
+	private Integer price;
+	
+}

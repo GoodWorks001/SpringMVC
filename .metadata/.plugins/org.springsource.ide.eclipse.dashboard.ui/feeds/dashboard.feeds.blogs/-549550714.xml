@@ -5,7 +5,26 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2019-07-04T11:35:58Z</updated>
+  <updated>2019-07-05T02:40:52Z</updated>
+  <entry>
+    <title>A Bootiful Podcast: Dr. Venkat Subramaniam on Kotlin, the future of Java, Spring, open-source, being productive and awesome, and so much more.</title>
+    <link rel="alternate" href="https://spring.io/blog/2019/07/05/a-bootiful-podcast-dr-venkat-subramaniam-on-kotlin-the-future-of-java-spring-open-source-being-productive-and-awesome-and-so-much-more" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2019-07-05:3741</id>
+    <updated>2019-07-05T02:40:52Z</updated>
+    <content type="html">&lt;p&gt;Hi, Spring fans! Happy 4th to those of you who celebrate. In today&amp;rsquo;s episode, I talk to the man, the myth, the legend, the good Dr. Venkat Subramaniam on Kotlin, the future of Java, Spring, open-source, being productive and awesome, and so much more. &lt;/p&gt;
+&lt;iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/646455324&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://twitter.com/Venkat_S"&gt;Dr. Subramaniam on Twitter (@venkat_s)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/starbuxman/status/1103810728883040256"&gt;a tweet asking that whatever recording I do&lt;/a&gt; with Dr. Subramaniam for the Bootiful Podcast be longer than an hour (wish granted!)&lt;/li&gt;
+  &lt;li&gt;The image from today&amp;rsquo;s episode comes from a joint-talk that the good Dr. Subramaniam and I did in Atlanta, GA for the epic Devnexus conference. I am using the photo from &lt;a href="https://twitter.com/mraible/status/1103692771028803590"&gt;Matt Raible&amp;rsquo;s tweet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dr. Subramaniam&amp;rsquo;s new book, &lt;a href="https://pragprog.com/book/vskotlin/programming-kotlin"&gt;&lt;em&gt;Programming Kotlin&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
+  </entry>
   <entry>
     <title>Explore the project on start.spring.io</title>
     <link rel="alternate" href="https://spring.io/blog/2019/07/04/explore-the-project-on-start-spring-io" />
@@ -1097,21 +1116,6 @@ dependencies {&#xD;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Boot 2.2.0.M4</title>
-    <link rel="alternate" href="https://spring.io/blog/2019/06/19/spring-boot-2-2-0-m4" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Andy Wilkinson</name>
-    </author>
-    <id>tag:spring.io,2019-06-19:3722</id>
-    <updated>2019-06-19T11:46:29Z</updated>
-    <content type="html">&lt;p&gt;On behalf of the team and everyone that contributed, I am pleased to announce that the fourth milestone of Spring Boot 2.2 has been released and is available from &lt;a href="http://repo.spring.io/milestone/"&gt;our milestone repository&lt;/a&gt;. This release closes over &lt;a href="https://github.com/spring-projects/spring-boot/milestone/141?closed=1"&gt;170 issues and pull requests&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For a complete list of changes and upgrade instructions, please see the &lt;a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2-Release-Notes"&gt;Spring Boot 2.2 Release Notes&lt;/a&gt; on the wiki and the &lt;a href="http://docs.spring.io/spring-boot/docs/2.2.0.M4/reference/htmlsingle/"&gt;updated reference documentation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you want to get started with 2.2 and try out the new features, you can bootstrap a new project on &lt;a href="https://start.spring.io"&gt;https://start.spring.io&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://projects.spring.io/spring-boot/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-boot/docs/2.2.0.M4/reference/htmlsingle"&gt;Documentation&lt;/a&gt; | &lt;a href="http://stackoverflow.com/questions/tagged/spring-boot"&gt;Stack Overflow&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-boot"&gt;Gitter&lt;/a&gt;&lt;/p&gt;
 &lt;!-- rendered by Sagan Renderer Service --&gt;</content>
   </entry>
 </feed>
