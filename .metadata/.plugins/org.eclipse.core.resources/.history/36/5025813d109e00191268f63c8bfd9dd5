@@ -1,0 +1,16 @@
+package jp_co.good_works.lesson;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class HelloController {
+
+	@RequestMapping(value = "/" , method = RequestMethod.GET)
+	public String Hello(Model,model) {
+		
+		model.addAttribute("message","HelloWorld");
+		
+	}
+	
+}
