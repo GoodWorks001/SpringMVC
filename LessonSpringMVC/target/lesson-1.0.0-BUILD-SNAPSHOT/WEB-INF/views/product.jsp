@@ -9,12 +9,33 @@
 	<title>Product</title>
 </head>
 <body>
-<p> <c:out value = "${message} "/></p>
+
+
+<p> <c:out value="${message}"/></p>
+
+<c:if test = "${not empty productList}">
+	<table border = "1";>
+	<tr>
+		<th>名前</th>
+	</tr>
+		<c:forEach var= "productForm" items = "${productList}">
+			<tr>
+			<td><c:out value = "${productForm.name }"></c:out></td>
+			<td><c:out value = "${productForm.price}"></c:out></td>
+			</tr>
+		</c:forEach>
+	</table>
+	<br>
+	</c:if>
+	
+
 <form:form modelAttribute = "productForm">
-	名前<form:input path = "name" /><br/>
-	価格<form:input path = "price" /><br/>
+	名前<form:input path = "name"  placeholder="名前を入力してください。"/><br/>
+	価格<form:input path = "price" placeholder= "0"/><br/>
 	<input type = "submit" value = "送信"><br/>
 </form:form>
+
+
 
 </body>
 </html>

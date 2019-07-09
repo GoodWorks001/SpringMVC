@@ -21,6 +21,10 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
+	<beans:bean id="messageSource" class = "org.springframework.context.support.ReloadableResourceBundleMessageSource">
+		<beans:property name="basename" value = "classpath:ValidatorMessages" />
+	</beans:bean>
+	
 	<context:component-scan base-package="jp_co.good_works.lesson" />
 	
 	
