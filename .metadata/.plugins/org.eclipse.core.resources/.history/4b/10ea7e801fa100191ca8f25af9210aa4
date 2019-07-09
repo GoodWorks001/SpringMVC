@@ -17,7 +17,7 @@
 		<th>価格</th>
 	</tr>
 	<tr>
-		<td><c:out value ="${productForm.	name}"/></td>
+		<td><c:out value ="${productForm.name}"/></td>
 		<td>${productForm.price}</td>
 	</tr>
 </table>	
