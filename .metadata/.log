@@ -13282,3 +13282,45 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:03:21.326
 !MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:10:23.339
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:10:23.343
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:10:33.478
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:10:33.496
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:04.697
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:04.795
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:12.717
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:12.721
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:15.589
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:11:15.591
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:12:59.391
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:12:59.408
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:13:00.933
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-09 11:13:00.954
+!MESSAGE Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
